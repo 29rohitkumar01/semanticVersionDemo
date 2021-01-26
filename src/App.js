@@ -15,7 +15,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-         Semantic versioning release in react
+         Semantic versioning release in react 
+         {/* ADDED PAT KEY IN PROJECT */}
         </a>
       </header>
     </div>
