@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/29rohitkumar01/semanticVersionDemo/compare/v1.1.0...v1.2.0) (2021-01-26)
+
+
+### Features
+
+* feature command added ([8ace2c6](https://github.com/29rohitkumar01/semanticVersionDemo/commit/8ace2c6a92cb8f92d0e87fd5661b4c618eaf53f8))
+
 # [1.1.0](https://github.com/29rohitkumar01/semanticVersionDemo/compare/v1.0.2...v1.1.0) (2021-01-26)
 
 
