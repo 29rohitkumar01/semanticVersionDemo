@@ -20,6 +20,10 @@ function App() {
          {/* Added a small fix*/}
          {/* Added a feature*/}
          {/* Breaking change testing */}
+         <h1>Following commands are used for this:</h1>
+         <ul>
+           <li>feat: A new feature</li>
+         </ul>
         </a>
       </header>
     </div>
