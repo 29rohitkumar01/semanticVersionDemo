@@ -1,3 +1,10 @@
+## [1.2.2](https://github.com/29rohitkumar01/semanticVersionDemo/compare/v1.2.1...v1.2.2) (2021-01-26)
+
+
+### Performance Improvements
+
+* A code change that improves performance ([d896d86](https://github.com/29rohitkumar01/semanticVersionDemo/commit/d896d861332a71469e098a5db4fe28dd7b1373d0))
+
 ## [1.2.1](https://github.com/29rohitkumar01/semanticVersionDemo/compare/v1.2.0...v1.2.1) (2021-01-26)
 
 
