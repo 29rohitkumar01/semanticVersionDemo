@@ -26,6 +26,7 @@ function App() {
            <li>fix: A bug fix</li>
            <li>docs: Documentation only changes</li>
            <li>style: Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)</li>
+           <li>refactor: A code change that neither fixes a bug nor adds a feature</li>
          </ul>
         </a>
       </header>
