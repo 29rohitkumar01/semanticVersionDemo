@@ -29,6 +29,7 @@ function App() {
            <li>refactor: A code change that neither fixes a bug nor adds a feature</li>
            <li>perf: A code change that improves performance</li>
            <li>test: Adding missing or correcting existing tests</li>
+           <li>chore: Changes to the build process or auxiliary tools and libraries such as documentation generation</li>
          </ul>
         </a>
       </header>
