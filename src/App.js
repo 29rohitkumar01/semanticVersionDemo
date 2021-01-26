@@ -25,6 +25,7 @@ function App() {
            <li>feat: A new feature</li>
            <li>fix: A bug fix</li>
            <li>docs: Documentation only changes</li>
+           <li>style: Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)</li>
          </ul>
         </a>
       </header>
