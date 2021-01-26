@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/29rohitkumar01/semanticVersionDemo/compare/v1.0.2...v1.1.0) (2021-01-26)
+
+
+### Features
+
+* added new feature testing ([333b514](https://github.com/29rohitkumar01/semanticVersionDemo/commit/333b514249fbe1ee40294337e971728a5cac3f0c))
+
 ## [1.0.2](https://github.com/29rohitkumar01/semanticVersionDemo/compare/v1.0.1...v1.0.2) (2021-01-26)
 
 
