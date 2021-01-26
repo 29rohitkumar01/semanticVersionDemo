@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/29rohitkumar01/semanticVersionDemo/compare/v1.0.0...v1.0.1) (2021-01-26)
+
+
+### Bug Fixes
+
+* testing fix release ([a8f72cc](https://github.com/29rohitkumar01/semanticVersionDemo/commit/a8f72cc29f3bc8510dc4a10b21beeb47e29d8e99))
+
 # 1.0.0 (2021-01-26)
 
 
