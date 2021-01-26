@@ -23,6 +23,7 @@ function App() {
          <h1>Following commands are used for this:</h1>
          <ul>
            <li>feat: A new feature</li>
+           <li>fix: A bug fix</li>
          </ul>
         </a>
       </header>
