@@ -24,6 +24,7 @@ function App() {
          <ul>
            <li>feat: A new feature</li>
            <li>fix: A bug fix</li>
+           <li>docs: Documentation only changes</li>
          </ul>
         </a>
       </header>
