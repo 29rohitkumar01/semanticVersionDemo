@@ -17,6 +17,7 @@ function App() {
         >
          Semantic versioning release in react 
          {/* ADDED PAT KEY IN PROJECT fix */}
+         {/* Added a small fix*/}
         </a>
       </header>
     </div>
