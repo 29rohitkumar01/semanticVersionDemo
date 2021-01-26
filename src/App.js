@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+         Semantic versioning release in react
         </a>
       </header>
     </div>
