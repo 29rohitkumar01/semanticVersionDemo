@@ -16,6 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
          Semantic versioning release in react 
+         </a>
          {/* ADDED PAT KEY IN PROJECT fix */}
          {/* Added a small fix*/}
          {/* Added a feature*/}
@@ -31,7 +32,6 @@ function App() {
            <li>test: Adding missing or correcting existing tests</li>
            <li>chore: Changes to the build process or auxiliary tools and libraries such as documentation generation</li>
          </ul>
-        </a>
       </header>
     </div>
   );
