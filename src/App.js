@@ -28,6 +28,7 @@ function App() {
            <li>style: Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)</li>
            <li>refactor: A code change that neither fixes a bug nor adds a feature</li>
            <li>perf: A code change that improves performance</li>
+           <li>test: Adding missing or correcting existing tests</li>
          </ul>
         </a>
       </header>
