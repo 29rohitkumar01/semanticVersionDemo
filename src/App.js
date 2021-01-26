@@ -20,7 +20,7 @@ function App() {
          {/* ADDED PAT KEY IN PROJECT fix */}
          {/* Added a small fix*/}
          {/* Added a feature*/}
-         {/* Breaking change testing */}
+         {/* BREAKING CHANGE: testing */}
          <h1>Following commands are used for this:</h1>
          <ul>
            <li>feat: A new feature</li>
