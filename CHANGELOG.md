@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/29rohitkumar01/semanticVersionDemo/compare/v1.0.1...v1.0.2) (2021-01-26)
+
+
+### Bug Fixes
+
+* small fix testing ([ece06ba](https://github.com/29rohitkumar01/semanticVersionDemo/commit/ece06ba76f0f5d0c11cab4a53af4751c2875c34e))
+
 ## [1.0.1](https://github.com/29rohitkumar01/semanticVersionDemo/compare/v1.0.0...v1.0.1) (2021-01-26)
 
 
