@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/29rohitkumar01/semanticVersionDemo/compare/v1.2.2...v1.3.0) (2021-01-26)
+
+
+### Features
+
+* a big feature \n\n BREAKING CHANGE: it breaks something ([7e57d23](https://github.com/29rohitkumar01/semanticVersionDemo/commit/7e57d23d16a391f15c36f92becddbe00adde4b3f))
+
 ## [1.2.2](https://github.com/29rohitkumar01/semanticVersionDemo/compare/v1.2.1...v1.2.2) (2021-01-26)
 
 
