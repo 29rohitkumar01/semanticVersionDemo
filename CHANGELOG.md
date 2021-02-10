@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/29rohitkumar01/semanticVersionDemo/compare/v1.3.0...v1.3.1) (2021-01-27)
+
+
+### Bug Fixes
+
+* fixed issue ([032ab44](https://github.com/29rohitkumar01/semanticVersionDemo/commit/032ab4495748d52c565e8657d32b7d1ce1d506ac))
+
 # [1.3.0](https://github.com/29rohitkumar01/semanticVersionDemo/compare/v1.2.2...v1.3.0) (2021-01-26)
 
 
